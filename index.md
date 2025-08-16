@@ -1,59 +1,60 @@
 ## About myself
 
 ### TL;DR
-One lucky guy who implement company vision and goals with directors, managers and teams and evaluated by the effectiveness (time to market, quality, cost) of them
+One lucky guy who gets to work with amazing teams, help Engineering & Product Managers and Senior ICs grow and deliver complex projects that make a real impact
 
 ### My role
-My role is to ensure that our teams can deliver meaningful outcomes with speed, quality and sustainability. I don’t measure success by my own output, but by how effectively we, as a collective, can turn strategy into results
-I see myself as a bridge: between leadership and execution, between strategy and delivery, between ambitious goals and practical solutions. I translate vision into measurable engineering and product outcomes, ensuring alignment, accountability, and clarity
+My role is to make sure our teams deliver meaningful outcomes with **speed, quality and sustainability**.
+I don’t measure success by what I personally produce, but by how well we, together, turn strategy into results
+I see myself as a **bridge** between leadership and execution, strategy and delivery, big goals and practical solutions. I turn vision into measurable outcomes, keeping alignment, accountability and clarity along the way
 
 ### My main jobs
-1. **Strategy into execution** -  I help turn company strategy into clear technical and organizational roadmaps and I ensure we track progress through the right metrics
-2. **Organisational health** - Hiring, scaling and supporting strong teams across geographies. My priority is building structures where people can do their best work.
-3. **Collaboration** - I focus on relationships with peers, stakeholders and partners. My aim is to foster trust, transparency and shared accountability
-4. **Decision support** - I don’t make every decision, but I make sure decisions are well-framed: data-driven, thoughtful and proportional to risk and reward
-5. **Bar raising** - whether in technical excellence, processes or leadership, I continuously encourage raising the standard
-
+1. **Strategy into execution** -  I help translate company goals into clear roadmaps and make sure we track progress with the right metrics
+2. **Organisational health** - hire, scale and support strong teams across geographies. Build structures where people do their best work
+3. **Collaboration** - build solid relationships with peers, stakeholders, and partners. My goal is trust, transparency, and shared accountability
+4. **Decision support** - I don’t need to make every call, but I’ll make sure decisions are well-framed: data-driven, thoughtful, and sized to the risk
+5. **Bar raising** - in tech, process or leadership, I’m always trying to push us to raise the standard
+   
 ### How I work
-- **Decision making** - I believe in meritocracy of ideas. The most credible voice (not the most senior) should guide the decision. Structured discussion with data beats gut feelings
-- **Delegation & trust** - by default, I assume you’re capable and autonomous. I step in when you need support or when risks could significantly impact outcomes
-- **Transparency** - I share context openly, expect the same in return and encourage clarity in goals, trade-offs and constraints
+- **Decision making** - best idea wins. Title doesn’t matter, credibility does. Bring data, not just gut feelings
+- **Delegation & trust** - I assume you’re capable and autonomous by default. I’ll step in if you need support or if risks are too high
+- **Transparency** - I share context openly and expect the same in return. Clarity on goals, trade-offs and constraints is non-negotiable
 
 ### What I value
-- **Clarity** - a clear agenda, a structured problem statement, a concise update
-- **Metrics & learning**- progress is measurable and mistakes are lessons
-- **Servant leadership** - I serve the team by removing blockers and enabling growth
+- **Clarity** - clear agendas, structured problems, concise updates
+- **Metrics & learning** - progress should be measurable, mistakes are lessons
+- **Servant leadership** - I remove blockers and enable growth
 - **Continuous improvement** - systems, processes and people can always get better
 - **Mutual accountability** - I expect everyone (including myself) to own commitments
 
 ### Working with me
-- **Meetings** - I prefer structured, purposeful discussions. If we’re brainstorming, I still expect framing
-- **Communication** - If it’s urgent, just grab me for a quick chat or call. For non-urgent or structured stuff, slack or docs work best. For strategy alignment, I’d rather sit down in a 1:1 or run a group workshop
-- **Feedback** - direct, candid and fact-based feedback is gold. I’ll give you the same in return
-- **Escalations** - come with data, trade-offs and options. My role is to help calibrate decisions, not to override ownership
+- **Meetings** - keep them short, structured and purposeful. If it’s a brainstorm, still frame the problem
+- **Communication** - If it’s urgent, just grab me for a quick chat or call. For non-urgent or structured stuff, slack or docs work best. For strategy alignment, let’s do a 1:1 or group workshop
+- **Feedback** -  direct, candid, fact-based feedback is gold. I’ll give you the same in return
+- **Escalations** - bring data, trade-offs and options. My role is to calibrate decisions, not override them
 
 ### My style
 - I balance hands-off trust with deep dives when needed
-- I value constructive conflict when rooted in trust and data
-- I’m introverted by nature, but fully committed to collaboration and alignment
-- I set high standards, for myself and others
+- I value constructive conflict, as long as it’s rooted in trust and data
+- I set a high bar for myself and others
 
 ### What you can expect from me
-- A commitment to growth -  yours, mine and the organization’s
+- A commitment to growth - yours, mine and the organization’s
 - Advocacy for engineering and product excellence
 - Support in navigating ambiguity, risk and cross-functional challenges
+
 
 ### What I expect from you
 - Take ownership: bring solutions, not just problems
 - Be transparent about blockers, risks, trade-offs and the context
-- Treat commitments seriously; if priorities shift, communicate early
-- Continuously learn, share and raise the bar
+- Treat commitments seriously: if priorities shift, communicate early
+- Keep learning: share, teach and raise the bar together
 
 ### A few personal notes
 - **I love** structured problem solving: metric trees, strategy maps and frameworks
 - **I dislike** unstructured, repetitive or ritual meetings without purpose
 - Books, articles and learning are central to my growth; I’ll share and hope you do too
-- My best energy goes into strategy, scaling teams and coaching leaders
+- My best energy goes into strategy and scaling teams, but especially into helping leaders and senior engineers grow
 
 ### Articles
 - [How to upgrade team retrospectives to deal with development trade-offs](https://medium.com/flo-health/how-to-determine-a-trade-off-between-speed-and-quality-and-in-what-way-it-connects-to-68a2217de2bc)
