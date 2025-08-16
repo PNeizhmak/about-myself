@@ -3,11 +3,11 @@
 ### TL;DR
 One lucky guy who implement company vision and goals with directors, managers and teams and evaluated by the effectiveness (time to market, quality, cost) of them
 
-### My Role
+### My role
 My role is to ensure that our teams can deliver meaningful outcomes with speed, quality and sustainability. I don’t measure success by my own output, but by how effectively we, as a collective, can turn strategy into results
 I see myself as a bridge: between leadership and execution, between strategy and delivery, between ambitious goals and practical solutions. I translate vision into measurable engineering and product outcomes, ensuring alignment, accountability, and clarity
 
-### My Main Jobs
+### My main jobs
 1. **Strategy into execution** -  I help turn company strategy into clear technical and organizational roadmaps and I ensure we track progress through the right metrics
 2. **Organisational health** - Hiring, scaling and supporting strong teams across geographies. My priority is building structures where people can do their best work.
 3. **Collaboration** - I focus on relationships with peers, stakeholders and partners. My aim is to foster trust, transparency and shared accountability
