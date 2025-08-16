@@ -28,7 +28,7 @@ I see myself as a bridge: between leadership and execution, between strategy and
 
 ### Working with me
 - **Meetings** - I prefer structured, purposeful discussions. If we’re brainstorming, I still expect framing
-- **Communication** - for urgent topics: I prefer offline conversation. For structured or non-urgent ones: slack or docs. For strategy alignment: 1:1s or group workshops
+- **Communication** - If it’s urgent, just grab me for a quick chat or call. For non-urgent or structured stuff, slack or docs work best. For strategy alignment, I’d rather sit down in a 1:1 or run a group workshop
 - **Feedback** - direct, candid and fact-based feedback is gold. I’ll give you the same in return
 - **Escalations** - come with data, trade-offs and options. My role is to help calibrate decisions, not to override ownership
 
