@@ -22,7 +22,7 @@ I see myself as a **bridge** between leadership and execution, strategy and deli
 
 ### What I value
 - **Clarity** - clear agendas, structured problems, concise updates
-- **Metrics & learning** - progress should be measurable, mistakes are lessons
+- **Metrics & learning** - progress should be measurable, every outcome should help us improve
 - **Servant leadership** - I remove blockers and enable growth
 - **Continuous improvement** - systems, processes and people can always get better
 - **Mutual accountability** - I expect everyone (including myself) to own commitments
