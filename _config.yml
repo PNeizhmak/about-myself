@@ -1,6 +1,6 @@
 # _config.yml
 title: Pavel Neizhmak
-description: Director of Engineering — scaling teams, growing leaders & senior engineers, shipping impactful products
+description: Engineering Leader — scaling teams, growing leaders & senior engineers, shipping impactful products
 # Use GitHub's official Cayman theme (sleek card look)
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
@@ -14,10 +14,10 @@ timezone: Europe/Vilnius
 # Social (used by some themes + link previews)
 author:
   name: Pavel Neizhmak
-  email: p_neizhmak@flo.health
+  email: paul.neizhmak@gmail.com
   links:
     - https://github.com/pneizhmak
-    - https://www.linkedin.com/in/pavel-neizhmak
+    - https://www.linkedin.com/in/pneizhmak
 
 # Add a custom stylesheet
 sass:
