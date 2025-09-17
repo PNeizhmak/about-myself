@@ -49,7 +49,7 @@ I see myself as a **bridge** - between leadership and execution, strategy and de
 - Support in **navigating ambiguity, risks, and cross-functional challenges**
 
 ### 🎯 What I expect from you
-- **Take ownership** – bring solutions, not just problems  
+- **Take ownership** - bring solutions, not just problems  
 - **Be transparent** – about blockers, risks, trade-offs, and context
 - **Honor commitments** – if priorities shift, communicate early
 - **Keep learning** – share, teach, and raise the bar together
@@ -59,6 +59,7 @@ I see myself as a **bridge** - between leadership and execution, strategy and de
 - **I dislike** unstructured, repetitive, or ritual meetings without purpose 
 - Books, articles, and learning are central to my growth; I’ll share and hope you do too  
 - My best energy goes into **strategy and scaling teams**, but especially into **helping leaders and senior engineers grow**
+- I can assemble Rubik’s Cubes (3x3 and 4x4) and planning to approach the 5x5
 
 ### 📝 Articles
 - [How to upgrade team retrospectives to deal with development trade-offs](https://medium.com/flo-health/how-to-determine-a-trade-off-between-speed-and-quality-and-in-what-way-it-connects-to-68a2217de2bc)
