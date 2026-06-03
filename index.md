@@ -63,6 +63,7 @@ I see myself as a **bridge** - between leadership and execution, strategy and de
 
 ### 📝 Articles
 - [How to upgrade team retrospectives to deal with development trade-offs](https://medium.com/flo-health/how-to-determine-a-trade-off-between-speed-and-quality-and-in-what-way-it-connects-to-68a2217de2bc)
+- [Demystifying the Engineering Manager Interview Process at Flo](https://medium.com/flo-health/demystifying-the-engineering-manager-interview-process-at-flo-66936f770dab)
 
 ### 📚 Favourite books
 - [The Software Engineer's Guidebook](https://www.amazon.com/Software-Engineers-Guidebook-Navigating-positions/dp/908338182X)  
